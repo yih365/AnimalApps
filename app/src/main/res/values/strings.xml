@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">HamsterFitness</string>
+    <string name="login_string">Have an account? <u>Log in</u></string>
+</resources>
